@@ -17,13 +17,13 @@ This is the Pygame version of the War game.
 ### MacOS Instructions:
 1. Create and activate a virtual environment:
    ```bash
-   python3 -m venv path/to/venv
-   source path/to/venv/bin/activate
+   $ python3 -m venv path/to/venv
+   $ source path/to/venv/bin/activate
    ```
 
 2. Install dependencies:
    ```bash
-   python3 -m pip install pygame
+   $ python3 -m pip install pygame
    ```
 
 3. Run the game:
